@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.output{
+  width: 280px;
+  height:100px ;
+  background-color: whitesmoke;
+  text-align: end;
+  font-style:normal;
+  font-size:xxx-large;
+  font-family: 'Roboto', sans-serif;
+  border-radius: 5px;
+  border: 1px solid black;
+  
+}
+.container{
+position: fixed;
+top:120px ;
+left:40%;
+}
+
+.btn{
+  height: 60px;
+  width: 70px;
+}
+.btn0{
+  width: 140px;
+}
+.operater{
+  background-color:#F79231;
+  border: .5px solid black;
+}
